@@ -88,7 +88,6 @@ npm start
 
 ## Contributors 👥
 - [Tejasvi Kumar](https://github.com/sceptejas) 👨‍💻: Smart Contracts & web3 integration
-- [Rajarshi Datta](https://github.com/rajarshidattapy) 👩‍💻: Frontend & AI agent
 - [Harshit Srivastava](https://github.com/hr-shiit) 👨‍💻: Smart Contracts & backend
 
 ## License 📄
