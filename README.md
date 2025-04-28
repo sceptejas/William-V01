@@ -32,8 +32,8 @@ WillIam employs a robust verification system to confirm a user's death before di
 
 ### Prerequisites 📋
 - Node.js v14+ 🟢
-- MetaMask browser extension 🦊
-- CORE test tokens for transactions 💲
+- Freighter browser extension 🦊
+- Stellar test tokens for transactions 💲
 
 ### Installation 💻
 ```bash
