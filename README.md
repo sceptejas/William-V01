@@ -7,7 +7,7 @@ WillIam is a decentralized L2 wallet application built on Stellar Blockchain tha
 Every year, millions of dollars worth of cryptocurrency assets are lost forever due to unexpected deaths where the owner's private keys become inaccessible. WillIam solves this problem through a secure, automated verification and inheritance system.
 
 ## Features ✨
-- **Secure Login** 🔒: Connect your MetaMask wallet
+- **Secure Login** 🔒: Connect your Freighter wallet
 - **Asset Management** 💰: Deposit XLP tokens to your secure inheritance contract
 - **Beneficiary System** 👪: Add multiple nominees with specific distribution percentages
 - **Multi-stage Verification** ✅: Three-layer verification process to confirm death before asset distribution
@@ -20,7 +20,6 @@ Every year, millions of dollars worth of cryptocurrency assets are lost forever 
 - **AI agent**: Stray SDK  (Custom)
 - **Smart Contracts**: Soroban
 - **Backend**: Node.js 
-- **Web3 Integration**: Ethers.js 
 - **NFT Storage**: Pinata 
 
 ## Death Verification Process 🔍
@@ -49,26 +48,6 @@ npm install
 # Start development server
 npm start
 ```
-
-### Connecting to Core Blockchain 🔌
-1. Configure MetaMask to connect to Core Blockchain
-2. Add Core Blockchain network to MetaMask:
-   - Network Name: Core Blockchain
-   - RPC URL: [Core Blockchain RPC URL](https://rpc.test2.btcs.network)
-   - Chain ID: [Core Chain ID](1114)
-   - Currency Symbol: CORE
-
-## User Guide 📖
-
-### Login 🔑
-1. Connect your MetaMask wallet
-2. Register your email and personal information
-3. The system will create your personal inheritance contract
-
-### Managing Assets 💼
-1. Navigate to the "Main" tab
-2. View your current balance
-3. Use the deposit form to add CORE tokens to your inheritance contract
 
 ### Managing Beneficiaries 👨‍👩‍👧
 1. Navigate to the "Nominee" tab
